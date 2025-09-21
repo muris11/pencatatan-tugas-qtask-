@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566176108050",
+    "project_id": "qtask-532e0",
+    "storage_bucket": "qtask-532e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566176108050:android:77a275847f7662b2a1d2cb",
+        "android_client_info": {
+          "package_name": "com.example.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566176108050-009nbv6tb4ei2915efpe2b7a3625o8ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFXxgR-g7lm-xGrUTMe1CSdED56EnJ7pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566176108050-009nbv6tb4ei2915efpe2b7a3625o8ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
