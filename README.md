@@ -1,4 +1,4 @@
-# Note - Manajemen Tugas Kuliah
+# QTASK - Manajemen Tugas Kuliah
 
 Note adalah aplikasi Flutter untuk membantu mahasiswa mengelola tugas kuliah, mencatat, memantau progres, dan menghasilkan laporan PDF. Aplikasi ini terintegrasi dengan Firebase untuk autentikasi dan penyimpanan data.
 
